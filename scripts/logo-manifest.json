@@ -1,0 +1,32 @@
+[
+  {
+    "file": "VerticalFoundry_Primary_Horizontal_OUTLINED.svg",
+    "approvedSource": "gemini-svg(1).svg",
+    "sha256": "8c9a4be4e480cbcfd97dbcc381692b95257a0925eb9a6f98656445713987b223"
+  },
+  {
+    "file": "VerticalFoundry_Primary_Stacked_OUTLINED.svg",
+    "approvedSource": "gemini-svg (1)(1).svg",
+    "sha256": "515d8000fac723c2e590cfdbb25f74b69ed32d88f44b3f20b0e3b2d2099831f4"
+  },
+  {
+    "file": "VerticalFoundry_Icon.svg",
+    "approvedSource": "gemini-svg (2)(1).svg",
+    "sha256": "9e044af8221b8be9b5dd53a6ab95f4d300cb290c082319cc359968046029b5eb"
+  },
+  {
+    "file": "VerticalFoundry_Monochrome_Black_OUTLINED.svg",
+    "approvedSource": "gemini-svg (3)(1).svg",
+    "sha256": "170aab5eebd4bce9c07213d5f5b86c5138739b684e8dcc12262f471c27714fc4"
+  },
+  {
+    "file": "VerticalFoundry_Reversed_White_OUTLINED.svg",
+    "approvedSource": "gemini-svg (4)(1).svg",
+    "sha256": "f732f62ee9c6137e761be96b93c6d0932fa5831d6a09e8a6dd71b9192e52a745"
+  },
+  {
+    "file": "VerticalFoundry_Reversed_Copper_OUTLINED.svg",
+    "approvedSource": "gemini-svg (5)(1).svg",
+    "sha256": "9c6b17c7c521f717146e5b0ad2487be58e0b25d4af992adfcea70693d6161221"
+  }
+]

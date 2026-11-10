@@ -1,0 +1,60 @@
+# VerticalFoundry
+
+> VerticalFoundry is a brand of Quant Data Intelligence LLC, developing practical industry-specific business tools for independent service entrepreneurs; the initial product catalog is being prepared.
+
+Owned and operated by Quant Data Intelligence LLC, a United States limited liability company. Founder: Alexandru Stoica. This site is informational; current or future product availability must be established from actual Etsy listings.
+
+## Website and editorial pages
+- [Home](https://getverticalfoundry.com/)
+- [Products overview](https://getverticalfoundry.com/products/)
+- [Store and purchasing FAQ](https://getverticalfoundry.com/store/)
+- [About VerticalFoundry and founder](https://getverticalfoundry.com/about/)
+- [Contact and FAQ](https://getverticalfoundry.com/contact/)
+- [Media Kit and press assets](https://getverticalfoundry.com/media-kit/)
+- [Terms of Service](https://getverticalfoundry.com/terms-of-service/)
+- [Privacy Policy](https://getverticalfoundry.com/privacy-policy/)
+- [Privacy preferences](https://getverticalfoundry.com/privacy/)
+
+## Machine-readable references
+- [Extended brand and corporate context](https://getverticalfoundry.com/llms-full.txt): More detailed public background and source links
+- [Identity registry (JSON)](https://getverticalfoundry.com/identity-registry.json): Official entity identifiers, relationships and social profiles
+- [XML sitemap](https://getverticalfoundry.com/sitemap.xml): Public page inventory
+- [Robots policy](https://getverticalfoundry.com/robots.txt): Public crawler access policy
+- [Agent guidance](https://getverticalfoundry.com/agents.md): Interpretation and scope notes
+
+## Related official identities
+- [Quant Data Intelligence LLC](https://www.quantdataintel.com/)
+- [VerticalFoundry](https://getverticalfoundry.com/)
+- [AetherTrigger](https://aethertrigger.com/)
+- [Founder Alexandru Stoica](https://www.linkedin.com/in/alexstoicax/)
+
+## Official social identity links
+- [Quant Data Intelligence LLC — LinkedIn](https://www.linkedin.com/company/quantdataintel/)
+- [Quant Data Intelligence LLC — Facebook](https://www.facebook.com/QuantDataIntel/)
+- [Quant Data Intelligence LLC — Instagram](https://www.instagram.com/quantdataintel/)
+- [Quant Data Intelligence LLC — X](https://x.com/theQDI)
+- [Quant Data Intelligence LLC — YouTube](https://www.youtube.com/@quantdataintel)
+- [VerticalFoundry — LinkedIn](https://www.linkedin.com/company/theverticalfoundry/)
+- [VerticalFoundry — Facebook](https://www.facebook.com/VerticalFoundry/)
+- [VerticalFoundry — Instagram](https://www.instagram.com/verticalfoundry/)
+- [VerticalFoundry — X](https://x.com/VerticalFoundry)
+- [VerticalFoundry — TikTok](https://www.tiktok.com/@verticalfoundry)
+- [VerticalFoundry — YouTube](https://www.youtube.com/@verticalfoundry)
+- [AetherTrigger — LinkedIn](https://www.linkedin.com/company/aethertrigger/)
+- [AetherTrigger — Facebook](https://www.facebook.com/theAetherTrigger/)
+- [AetherTrigger — Instagram](https://www.instagram.com/getaethertrigger/)
+- [AetherTrigger — TikTok](https://www.tiktok.com/@aethertrigger)
+- [AetherTrigger — YouTube](https://www.youtube.com/@aethertrigger)
+- [Alexandru Stoica — LinkedIn](https://www.linkedin.com/in/alexstoicax/)
+- [Alexandru Stoica — Facebook](https://www.facebook.com/alexstoicax/)
+- [Alexandru Stoica — Instagram](https://www.instagram.com/alexstoicax/)
+- [Alexandru Stoica — Threads](https://www.threads.com/@alexstoicax)
+- [Alexandru Stoica — X](https://x.com/alexstoicax)
+- [Alexandru Stoica — TikTok](https://www.tiktok.com/@alexstoicax)
+- [Alexandru Stoica — YouTube](https://www.youtube.com/@alexstoicax)
+- [Alexandru Stoica — WhatsApp](https://wa.me/@alexstoicax)
+
+## Optional
+- [Etsy shop](https://www.etsy.com/shop/VerticalFoundry)
+- [VerticalFoundry Facebook community](https://www.facebook.com/groups/verticalfoundry)
+- [Public VerticalFoundry WhatsApp community](https://chat.whatsapp.com/JP6sTCf7AVnIPZQ3KorJ61)

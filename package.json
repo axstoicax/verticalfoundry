@@ -1,0 +1,25 @@
+{
+  "name": "verticalfoundry-website",
+  "version": "5.10.0",
+  "private": true,
+  "description": "VerticalFoundry website with founder portrait-led About and archival family memory",
+  "scripts": {
+    "dev": "next dev",
+    "build": "npm run validate:logos && npm run validate:site && npm run validate:seo && npm run validate:discovery && next build",
+    "validate:logos": "node scripts/validate-logos.mjs",
+    "validate:site": "node scripts/validate-site.mjs",
+    "validate:seo": "node scripts/validate-seo.mjs",
+    "validate:discovery": "node scripts/validate-discovery.mjs",
+    "validate:export": "node scripts/validate-production-export.mjs",
+    "indexnow:prepare": "node scripts/indexnow.mjs prepare",
+    "indexnow:submit": "node scripts/indexnow.mjs submit"
+  },
+  "dependencies": {
+    "next": "16.4.2",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  }
+}

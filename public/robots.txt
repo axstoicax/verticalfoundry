@@ -1,0 +1,7 @@
+# VerticalFoundry — open public discovery policy (19 October 2026)
+# The publicly published website is open to all user agents.
+# No crawler-specific exclusions, no disallow rules and no crawl-delay rules.
+User-agent: *
+Allow: /
+
+Sitemap: https://getverticalfoundry.com/sitemap.xml

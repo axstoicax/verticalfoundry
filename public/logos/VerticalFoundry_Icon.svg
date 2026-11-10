@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-30 -30 160 160" width="100%" height="100%">
+    <!-- 
+      VerticalFoundry - Icon-Only Avatar Version
+      1:1 Square aspect ratio. Perfectly centered with 30px safe padding. 
+    -->
+    <g id="vf-icon-master">
+        <polygon points="0,15 22,15 40,100 0,100" fill="#25292D" />
+        <polygon points="78,15 100,15 100,100 60,100" fill="#25292D" />
+        <polygon points="32,0 68,0 50,85" fill="#B86636" />
+    </g>
+</svg>

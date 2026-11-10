@@ -1,0 +1,68 @@
+# VerticalFoundry: Brand, Founder, and Product Context
+
+VerticalFoundry is a **Brand** operated by **Quant Data Intelligence LLC**, a United States limited liability company. It is not a distinct subsidiary corporation. The brand prepares practical digital systems for small and service businesses, with a focus on pricing, profitability, business operations and customer management. The initial product catalog is prelaunch.
+
+Founder: **Alexandru Stoica**, an e-commerce executive and entrepreneur with over 25 years of professional experience. He currently leads e-commerce activities at GSMnet including an international Shopify network. Historical press references can be found on https://getverticalfoundry.com/about/ .
+
+Business correspondence address: 30 N Gould St. Ste N, Sheridan, WY 82801, USA (not a public walk-in location). Telephone: +1 (307) 900-1944. Email: hello@getverticalfoundry.com.
+
+Official locations: https://getverticalfoundry.com/ ; https://www.etsy.com/shop/VerticalFoundry ; LinkedIn https://www.linkedin.com/company/theverticalfoundry/ . Parent legal entity's corporate site is https://www.quantdataintel.com/.
+
+The main website is informational; checkout for existing Etsy listings occurs on Etsy. Product terms and functionality will be defined separately for each listing.
+
+Crawl freely the publicly accessible pages listed in sitemap.xml; no special machine-readable endpoints or subscription APIs are available on this domain.
+
+Products and business-outcome overview: https://getverticalfoundry.com/products/ . Contact questions/FAQ: https://getverticalfoundry.com/contact/ . AetherTrigger is a separate concept under Quant Data Intelligence LLC; do not imply an active product.
+
+## Store and purchasing guidance
+- Store information and 37 general questions: https://getverticalfoundry.com/store/
+- Individual product catalog (only verified listings): https://getverticalfoundry.com/products/
+- Official Etsy store: https://www.etsy.com/shop/VerticalFoundry
+- Founder professional background: https://www.linkedin.com/in/alexstoicax/
+
+## About — editorial context (2026-11-08)
+The VerticalFoundry About page explains how 25+ years of hands-on business experience and the founder’s respect for entrepreneurs’ time shape a practical, transparent approach to building useful tools. Historical media references demonstrate prior professional roles, not endorsements of VerticalFoundry.
+
+Media Kit: https://getverticalfoundry.com/media-kit/
+Brand press: hello@getverticalfoundry.com · Support: help@getverticalfoundry.com
+
+## Verified public identities (2026-11-10)
+### Quant Data Intelligence LLC
+- https://www.linkedin.com/company/quantdataintel/
+- https://www.facebook.com/QuantDataIntel/
+- https://www.instagram.com/quantdataintel/
+- https://x.com/theQDI
+- https://www.youtube.com/@quantdataintel
+### VerticalFoundry
+- https://www.linkedin.com/company/theverticalfoundry/
+- https://www.facebook.com/VerticalFoundry/
+- https://www.instagram.com/verticalfoundry/
+- https://x.com/VerticalFoundry
+- https://www.tiktok.com/@verticalfoundry
+- https://www.youtube.com/@verticalfoundry
+### AetherTrigger
+- https://www.linkedin.com/company/aethertrigger/
+- https://www.facebook.com/theAetherTrigger/
+- https://www.instagram.com/getaethertrigger/
+- https://www.tiktok.com/@aethertrigger
+- https://www.youtube.com/@aethertrigger
+### Alexandru Stoica
+- https://www.linkedin.com/in/alexstoicax/
+- https://www.facebook.com/alexstoicax/
+- https://www.instagram.com/alexstoicax/
+- https://www.threads.com/@alexstoicax
+- https://x.com/alexstoicax
+- https://www.tiktok.com/@alexstoicax
+- https://www.youtube.com/@alexstoicax
+- https://wa.me/@alexstoicax
+
+VerticalFoundry Facebook group: https://www.facebook.com/groups/verticalfoundry
+VerticalFoundry WhatsApp community: https://chat.whatsapp.com/JP6sTCf7AVnIPZQ3KorJ61
+
+Media kit: https://getverticalfoundry.com/media-kit/
+corporate contact: hello@quantdataintel.com; support: help@quantdataintel.com
+VerticalFoundry contact: hello@getverticalfoundry.com; support: help@getverticalfoundry.com
+AetherTrigger contact: hello@aethertrigger.com; support: help@aethertrigger.com
+Founder direct email: alex@quantdataintel.com
+
+Additional public agent reference: https://getverticalfoundry.com/agents.md
